@@ -1,0 +1,1 @@
+## Repositório com todas as atividades realizadas durante a disciplina de Introdução a Ciência de Dados
